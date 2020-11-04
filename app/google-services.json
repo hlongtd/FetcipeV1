@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "500165535855",
+    "firebase_url": "https://fetcipev1-caac3.firebaseio.com",
+    "project_id": "fetcipev1-caac3",
+    "storage_bucket": "fetcipev1-caac3.appspot.com"
+  },
+  "client": [
+    {
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3yPRbivzfqH1uEKqW-8rlrMN11Z7wpo"
+        }
+      ],
+      "client_info": {
+        "mobilesdk_app_id": "1:500165535855:android:fbddc2ee2b995298c2c59a",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500165535855-2tpuk31g8gk7brnkqnc1r9j1fd1n747l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipeapp",
+            "certificate_hash": "68953c7aca65b0875bdf85058b7aaa590c26a5f0"
+          }
+        },
+        {
+          "client_id": "500165535855-63b5tmifrij25fr9jrbrk8t1rga1dui7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500165535855-63b5tmifrij25fr9jrbrk8t1rga1dui7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
